@@ -1,0 +1,7 @@
+get - get data
+post - secure data (password)
+put - update full data
+patch - partial update
+delete - delete data
+
+name,email,contact
